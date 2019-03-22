@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicMultithreading/Lecture2/Concurrency1/Concurrency1.iml" filepath="$PROJECT_DIR$/BasicMultithreading/Lecture2/Concurrency1/Concurrency1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicMultithreading/ExecutorServices/ExecutorServices.iml" filepath="$PROJECT_DIR$/BasicMultithreading/ExecutorServices/ExecutorServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForkJoinFramework/ForkJoinMax/ForkJoinMax.iml" filepath="$PROJECT_DIR$/ForkJoinFramework/ForkJoinMax/ForkJoinMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForkJoinFramework/ForkJoinMerge/ForkJoinMerge.iml" filepath="$PROJECT_DIR$/ForkJoinFramework/ForkJoinMerge/ForkJoinMerge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForkJoinFramework/ForkJoinSimple1/ForkJoinSimple1.iml" filepath="$PROJECT_DIR$/ForkJoinFramework/ForkJoinSimple1/ForkJoinSimple1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForkJoinFramework/ForkJoinSimple2/ForkJoinSimple2.iml" filepath="$PROJECT_DIR$/ForkJoinFramework/ForkJoinSimple2/ForkJoinSimple2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicMultithreading/FutureCallable/FutureCallable.iml" filepath="$PROJECT_DIR$/BasicMultithreading/FutureCallable/FutureCallable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LifeGameSimulation/LifeGameSimulation.iml" filepath="$PROJECT_DIR$/LifeGameSimulation/LifeGameSimulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parallel/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/Parallel/MergeSort/MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MineProject/MineProject.iml" filepath="$PROJECT_DIR$/MineProject/MineProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhilosopherProblem/PhilosopherProblem.iml" filepath="$PROJECT_DIR$/PhilosopherProblem/PhilosopherProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParallelSum/PrallelSum.iml" filepath="$PROJECT_DIR$/ParallelSum/PrallelSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentLibraryProject/StudentLibrarayProject.iml" filepath="$PROJECT_DIR$/StudentLibraryProject/StudentLibrarayProject.iml" />
+    </modules>
+  </component>
+</project>
